@@ -3,4 +3,4 @@
 
 This type of interaction-free measurement can be scaled by manifold repetition of the circuit, thereby measuring the qubit (in this specific case, q[2]) interaction-freely with the probability that is arbitrarily close to 1. On each repetition, the circuit has the 50% chance of measuring the qubit "for free," regardless of the qubit's eigenstate (|0⟩ or |1⟩). However, this version of performing a counterfactual computation never outputs false positives and false negatives.
 
-Code and quantum circuit are licensed under GPLv3.
+Code is licensed under GPLv3.
